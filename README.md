@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![image](https://github.com/toarnabtrainer/AEC_DBMS_May_2024/assets/111301975/82672e3f-3f4a-493d-a475-0e3f03a4fd92)
+![390060983-53dd7f34-48fa-4e62-a22f-0caad79275c5](https://github.com/user-attachments/assets/ac718569-2669-4aa7-aa8c-9a3ea7a3133b)
 
 <!--
 **toarnabtrainer/toarnabtrainer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
